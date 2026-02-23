@@ -2,7 +2,7 @@
 
 **Game Programmer | Dundee, Scotland**
 
-MSc Computer Games Technology student at Abertay University, specializing in game development with a focus on engine programming and graphics systems.
+MSc Computer Games Technology student at Abertay University, B.S in Computer Science and Technology
 
 ## Technical Expertise
 
