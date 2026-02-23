@@ -21,4 +21,5 @@ MSc Computer Games Technology student at Abertay University, specializing in gam
 
 ## Connect
 
-[![LinkedIn](https://www.linkedin.com/in/jos%C3%A9-pablo-gonz%C3%A1lez-poblette-31b24b252/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-pablo-gonz%C3%A1lez-poblette-31b24b252/)
+
